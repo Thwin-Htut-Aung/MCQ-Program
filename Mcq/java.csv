@@ -1,0 +1,5 @@
+Java codes are compiled to ____ .,a. Machine Code,b. Bytecode,c. AI code,d. None of the above,b,b. Bytecode
+What is needed to run Java programs?,a. JDK,b. JVM,c. JRE,d. All of the above,d,d. All of the above
+What can Java be used for?,a. Stucturing web pages,b. Styling web pages,c. Client-side scripting,d. Server-side scripting,d,d. Server-side scripting
+Which Java utility class is used to accept user input?,a. BufferedReader,b. Math,c. Scanner,d. Random,c,c. Scanner
+Which variable is a reference type?,a. public MyClass var;,b. public int var;,c. public String var;,d. public boolean var;,a,a. public MyClass var;

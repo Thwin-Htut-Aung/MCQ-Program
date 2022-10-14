@@ -1,0 +1,5 @@
+Which symbol means 'greater than or equal to'?,a. <=,b. ==,c. >=,d. <,c,c. >=
+Which symbol means 'equal to'?,a. ==,b. =,c. >,d. >=,a,a. ==
+Which is not a conditional control statement? ,a. else if,b. if,c. for,d. else,c,c. for
+Which is a wrong syntax to initialize a for loop?,a. for (int i=0; i<10; i++),b. for (int i=0; i<10; i+=1),c. for (int i=0; i<10; i=+1),d. for (int i=0; i<10; ++i),c,c. for (int i=0; i<10; i=+1)
+Which statement is used to catch FileNotFound and IO exceptions?,a. for,b. try-catch,c. if-else,d. while,b,b. try-catch
